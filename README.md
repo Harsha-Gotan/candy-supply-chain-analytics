@@ -5,7 +5,6 @@
 ---
 
 **👤 Author:** Harsha Gotan
-**🔗 LinkedIn:** https://www.linkedin.com/in/harsha-gotan
 **📅 Year:** 2025
 **🎯 Domain:** Supply Chain Analytics | Data Analysis
 
