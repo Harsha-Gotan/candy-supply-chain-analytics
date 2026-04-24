@@ -320,3 +320,9 @@ candy-supply-chain-analytics/
 - Three tables (Inventory, Supplier Performance, Expected Delivery) independently simulated to complete the supply chain picture
 - Built as a portfolio project to demonstrate end-to-end supply chain analytics capabilities
 
+
+## Screenshots
+
+<img width="1443" height="813" alt="page1_executive_summary" src="https://github.com/user-attachments/assets/99a691e0-1053-4710-bf17-bfccb9b4015e" />
+![Executive Summary](screenshots/page1_executive_summary.png)
+
