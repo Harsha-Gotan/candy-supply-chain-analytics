@@ -1,0 +1,181 @@
+Product,Date,Opening Stock,Closing Stock,Reorder Point,Safety Stock,Replenishment
+Wonka Bar - Milk Chocolate,01-01-2025,752,710,351,215,99
+Wonka Bar - Milk Chocolate,01-02-2025,710,704,328,198,137
+Wonka Bar - Milk Chocolate,01-03-2025,704,695,327,210,157
+Wonka Bar - Milk Chocolate,01-04-2025,695,667,333,200,112
+Wonka Bar - Milk Chocolate,01-05-2025,667,660,341,206,138
+Wonka Bar - Milk Chocolate,01-06-2025,660,629,336,198,125
+Wonka Bar - Milk Chocolate,01-07-2025,629,601,333,211,136
+Wonka Bar - Milk Chocolate,01-08-2025,601,538,347,196,91
+Wonka Bar - Milk Chocolate,01-09-2025,538,453,360,215,112
+Wonka Bar - Milk Chocolate,01-10-2025,453,341,350,197,96
+Wonka Bar - Milk Chocolate,01-11-2025,341,177,327,205,108
+Wonka Bar - Milk Chocolate,01-12-2025,177,355,337,209,438
+Wonka Bar -Scrumdiddlyumptious,01-01-2025,673,680,330,202,152
+Wonka Bar -Scrumdiddlyumptious,01-02-2025,680,671,335,194,96
+Wonka Bar -Scrumdiddlyumptious,01-03-2025,671,641,316,184,102
+Wonka Bar -Scrumdiddlyumptious,01-04-2025,641,630,317,199,124
+Wonka Bar -Scrumdiddlyumptious,01-05-2025,630,663,331,186,159
+Wonka Bar -Scrumdiddlyumptious,01-06-2025,663,679,312,198,146
+Wonka Bar -Scrumdiddlyumptious,01-07-2025,679,600,329,196,86
+Wonka Bar -Scrumdiddlyumptious,01-08-2025,600,552,309,190,130
+Wonka Bar -Scrumdiddlyumptious,01-09-2025,552,499,307,189,106
+Wonka Bar -Scrumdiddlyumptious,01-10-2025,499,393,326,197,118
+Wonka Bar -Scrumdiddlyumptious,01-11-2025,393,274,328,185,125
+Wonka Bar -Scrumdiddlyumptious,01-12-2025,274,420,321,198,390
+Wonka Bar - Triple Dazzle Caramel,01-01-2025,636,608,301,181,103
+Wonka Bar - Triple Dazzle Caramel,01-02-2025,608,610,328,189,111
+Wonka Bar - Triple Dazzle Caramel,01-03-2025,610,594,307,193,101
+Wonka Bar - Triple Dazzle Caramel,01-04-2025,594,568,329,182,129
+Wonka Bar - Triple Dazzle Caramel,01-05-2025,568,589,325,196,149
+Wonka Bar - Triple Dazzle Caramel,01-06-2025,589,526,325,189,104
+Wonka Bar - Triple Dazzle Caramel,01-07-2025,526,523,307,181,143
+Wonka Bar - Triple Dazzle Caramel,01-08-2025,523,476,300,195,111
+Wonka Bar - Triple Dazzle Caramel,01-09-2025,476,472,303,183,153
+Wonka Bar - Triple Dazzle Caramel,01-10-2025,472,371,316,185,107
+Wonka Bar - Triple Dazzle Caramel,01-11-2025,371,287,330,197,118
+Wonka Bar - Triple Dazzle Caramel,01-12-2025,287,498,309,185,412
+Wonka Bar - Fudge Mallows,01-01-2025,648,608,281,164,89
+Wonka Bar - Fudge Mallows,01-02-2025,608,574,287,165,89
+Wonka Bar - Fudge Mallows,01-03-2025,574,586,295,174,124
+Wonka Bar - Fudge Mallows,01-04-2025,586,562,291,169,110
+Wonka Bar - Fudge Mallows,01-05-2025,562,525,297,164,85
+Wonka Bar - Fudge Mallows,01-06-2025,525,454,290,164,73
+Wonka Bar - Fudge Mallows,01-07-2025,454,396,280,172,84
+Wonka Bar - Fudge Mallows,01-08-2025,396,315,284,175,81
+Wonka Bar - Fudge Mallows,01-09-2025,315,280,276,169,135
+Wonka Bar - Fudge Mallows,01-10-2025,280,451,292,167,367
+Wonka Bar - Fudge Mallows,01-11-2025,451,413,280,172,136
+Wonka Bar - Fudge Mallows,01-12-2025,413,305,291,178,97
+Wonka Bar - Nutty Crunch Surprise,01-01-2025,666,659,292,175,115
+Wonka Bar - Nutty Crunch Surprise,01-02-2025,659,654,272,161,113
+Wonka Bar - Nutty Crunch Surprise,01-03-2025,654,599,270,160,70
+Wonka Bar - Nutty Crunch Surprise,01-04-2025,599,581,283,163,116
+Wonka Bar - Nutty Crunch Surprise,01-05-2025,581,558,287,164,93
+Wonka Bar - Nutty Crunch Surprise,01-06-2025,558,527,286,173,116
+Wonka Bar - Nutty Crunch Surprise,01-07-2025,527,488,270,170,89
+Wonka Bar - Nutty Crunch Surprise,01-08-2025,488,485,295,164,133
+Wonka Bar - Nutty Crunch Surprise,01-09-2025,485,448,290,171,111
+Wonka Bar - Nutty Crunch Surprise,01-10-2025,448,352,273,168,90
+Wonka Bar - Nutty Crunch Surprise,01-11-2025,352,312,286,160,136
+Wonka Bar - Nutty Crunch Surprise,01-12-2025,312,180,293,176,71
+Lickable Wallpaper,01-01-2025,59,60,25,13,11
+Lickable Wallpaper,01-02-2025,60,58,23,13,7
+Lickable Wallpaper,01-03-2025,58,57,24,13,10
+Lickable Wallpaper,01-04-2025,57,57,23,14,11
+Lickable Wallpaper,01-05-2025,57,55,24,13,10
+Lickable Wallpaper,01-06-2025,55,52,24,14,7
+Lickable Wallpaper,01-07-2025,52,51,24,14,11
+Lickable Wallpaper,01-08-2025,51,47,24,14,9
+Lickable Wallpaper,01-09-2025,47,41,24,14,8
+Lickable Wallpaper,01-10-2025,41,32,23,13,6
+Lickable Wallpaper,01-11-2025,32,26,24,13,9
+Lickable Wallpaper,01-12-2025,26,15,22,13,8
+Wonka Gum,01-01-2025,45,45,22,13,8
+Wonka Gum,01-02-2025,45,45,21,12,8
+Wonka Gum,01-03-2025,45,43,22,13,8
+Wonka Gum,01-04-2025,43,41,22,12,7
+Wonka Gum,01-05-2025,41,40,20,12,10
+Wonka Gum,01-06-2025,40,37,21,13,6
+Wonka Gum,01-07-2025,37,35,22,12,9
+Wonka Gum,01-08-2025,35,32,23,12,8
+Wonka Gum,01-09-2025,32,29,21,13,7
+Wonka Gum,01-10-2025,29,23,20,13,5
+Wonka Gum,01-11-2025,23,15,22,12,8
+Wonka Gum,01-12-2025,15,22,21,12,23
+Kazookles,01-01-2025,39,36,18,9,4
+Kazookles,01-02-2025,36,38,18,9,8
+Kazookles,01-03-2025,38,39,17,10,7
+Kazookles,01-04-2025,39,37,18,9,7
+Kazookles,01-05-2025,37,36,18,9,6
+Kazookles,01-06-2025,36,35,17,10,8
+Kazookles,01-07-2025,35,32,17,9,4
+Kazookles,01-08-2025,32,30,18,9,5
+Kazookles,01-09-2025,30,25,17,10,5
+Kazookles,01-10-2025,25,22,18,9,8
+Kazookles,01-11-2025,22,16,18,10,5
+Kazookles,01-12-2025,16,22,18,10,21
+Everlasting Gobstopper,01-01-2025,17,17,7,4,3
+Everlasting Gobstopper,01-02-2025,17,16,8,3,2
+Everlasting Gobstopper,01-03-2025,16,15,8,4,2
+Everlasting Gobstopper,01-04-2025,15,15,7,4,3
+Everlasting Gobstopper,01-05-2025,15,14,7,3,3
+Everlasting Gobstopper,01-06-2025,14,13,8,4,2
+Everlasting Gobstopper,01-07-2025,13,12,8,3,3
+Everlasting Gobstopper,01-08-2025,12,11,7,4,2
+Everlasting Gobstopper,01-09-2025,11,9,7,4,2
+Everlasting Gobstopper,01-10-2025,9,7,7,3,3
+Everlasting Gobstopper,01-11-2025,7,10,7,3,8
+Everlasting Gobstopper,01-12-2025,10,7,8,4,2
+Hair Toffee,01-01-2025,19,19,7,3,3
+Hair Toffee,01-02-2025,19,19,8,4,2
+Hair Toffee,01-03-2025,19,19,8,4,3
+Hair Toffee,01-04-2025,19,18,7,3,2
+Hair Toffee,01-05-2025,18,18,7,3,3
+Hair Toffee,01-06-2025,18,16,8,4,2
+Hair Toffee,01-07-2025,16,16,8,3,3
+Hair Toffee,01-08-2025,16,16,8,3,3
+Hair Toffee,01-09-2025,16,16,8,4,3
+Hair Toffee,01-10-2025,16,14,8,4,3
+Hair Toffee,01-11-2025,14,12,8,3,3
+Hair Toffee,01-12-2025,12,9,7,3,3
+Fizzy Lifting Drinks,01-01-2025,17,17,7,4,2
+Fizzy Lifting Drinks,01-02-2025,17,18,8,3,3
+Fizzy Lifting Drinks,01-03-2025,18,17,8,4,2
+Fizzy Lifting Drinks,01-04-2025,17,17,8,4,3
+Fizzy Lifting Drinks,01-05-2025,17,17,8,4,3
+Fizzy Lifting Drinks,01-06-2025,17,15,8,3,2
+Fizzy Lifting Drinks,01-07-2025,15,14,7,3,3
+Fizzy Lifting Drinks,01-08-2025,14,14,8,3,3
+Fizzy Lifting Drinks,01-09-2025,14,12,8,4,2
+Fizzy Lifting Drinks,01-10-2025,12,10,7,3,3
+Fizzy Lifting Drinks,01-11-2025,10,8,8,4,3
+Fizzy Lifting Drinks,01-12-2025,8,12,8,4,9
+SweeTARTS,01-01-2025,16,17,8,4,3
+SweeTARTS,01-02-2025,17,18,7,4,3
+SweeTARTS,01-03-2025,18,18,8,4,3
+SweeTARTS,01-04-2025,18,16,8,4,2
+SweeTARTS,01-05-2025,16,16,7,3,3
+SweeTARTS,01-06-2025,16,15,7,4,2
+SweeTARTS,01-07-2025,15,14,8,3,2
+SweeTARTS,01-08-2025,14,13,7,4,3
+SweeTARTS,01-09-2025,13,12,8,3,3
+SweeTARTS,01-10-2025,12,10,8,3,2
+SweeTARTS,01-11-2025,10,7,8,3,2
+SweeTARTS,01-12-2025,7,10,7,4,8
+Fun Dip,01-01-2025,16,15,7,3,2
+Fun Dip,01-02-2025,15,16,8,3,3
+Fun Dip,01-03-2025,16,16,7,3,2
+Fun Dip,01-04-2025,16,15,7,3,2
+Fun Dip,01-05-2025,15,15,7,3,3
+Fun Dip,01-06-2025,15,14,7,4,3
+Fun Dip,01-07-2025,14,12,8,3,2
+Fun Dip,01-08-2025,12,10,8,3,2
+Fun Dip,01-09-2025,10,9,7,3,3
+Fun Dip,01-10-2025,9,6,7,3,2
+Fun Dip,01-11-2025,6,10,8,3,10
+Fun Dip,01-12-2025,10,8,7,4,3
+Laffy Taffy,01-01-2025,12,11,5,2,1
+Laffy Taffy,01-02-2025,11,12,5,2,2
+Laffy Taffy,01-03-2025,12,12,6,3,2
+Laffy Taffy,01-04-2025,12,12,6,2,2
+Laffy Taffy,01-05-2025,12,12,5,2,2
+Laffy Taffy,01-06-2025,12,12,6,3,2
+Laffy Taffy,01-07-2025,12,11,5,3,1
+Laffy Taffy,01-08-2025,11,10,5,2,1
+Laffy Taffy,01-09-2025,10,10,6,2,2
+Laffy Taffy,01-10-2025,10,9,6,2,2
+Laffy Taffy,01-11-2025,9,6,6,3,1
+Laffy Taffy,01-12-2025,6,8,6,2,7
+Nerds,01-01-2025,13,12,6,2,1
+Nerds,01-02-2025,12,11,6,2,1
+Nerds,01-03-2025,11,10,5,3,1
+Nerds,01-04-2025,10,10,6,2,2
+Nerds,01-05-2025,10,8,5,2,1
+Nerds,01-06-2025,8,7,5,3,2
+Nerds,01-07-2025,7,7,5,3,2
+Nerds,01-08-2025,7,5,6,3,1
+Nerds,01-09-2025,5,9,6,3,6
+Nerds,01-10-2025,9,6,6,3,1
+Nerds,01-11-2025,6,4,5,3,1
+Nerds,01-12-2025,4,7,6,3,7
