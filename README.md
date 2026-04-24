@@ -324,9 +324,13 @@ candy-supply-chain-analytics/
 ## Screenshots
 
 <img width="1443" height="813" alt="page1_executive_summary" src="https://github.com/user-attachments/assets/99a691e0-1053-4710-bf17-bfccb9b4015e" />
+
 <img width="1443" height="812" alt="page2_sales_deep_dive" src="https://github.com/user-attachments/assets/ae9754c0-8bc5-49a2-acfb-8f5c177bc0b8" />
+
 <img width="1440" height="812" alt="page3_supply_chain_diagnostic" src="https://github.com/user-attachments/assets/56b3b382-4aaa-4c36-a334-2b7e4367d771" />
+
 <img width="1441" height="810" alt="page4_inventory   stockout_risk" src="https://github.com/user-attachments/assets/e4f9a3cc-5343-4823-9b3c-6491ad945f70" />
+
 <img width="1443" height="814" alt="page_demand_forecast_2025" src="https://github.com/user-attachments/assets/6ac916ed-15ed-4282-b47c-e819c9bc69a8" />
 
 
