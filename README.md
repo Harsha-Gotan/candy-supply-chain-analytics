@@ -129,19 +129,19 @@ Power BI (live PostgreSQL connection)
 
 ## 🔍 Project Walkthrough
 
-### Section 1 — Sales Performance Analysis (2021–2024)
+### Section 1 - Sales Performance Analysis (2021–2024)
 Using PostgreSQL, 11 analytical queries were written to understand the business baseline — KPIs, year-over-year growth, division performance vs targets, product rankings, regional breakdown and seasonality patterns. Key finding: revenue was flat in 2022 then accelerated +27.4% in both 2023 and 2024.
 
-### Section 2 — Supply Chain Diagnostic
+### Section 2 - Supply Chain Diagnostic
 Six queries connecting sales to supplier performance data. Introduced a **composite risk score** (weighted formula combining delay rate, lead time gap and reliability score) to rank factories by operational risk. Built a supplier risk matrix classifying each factory into quadrants (Critical, Stable, Monitor, Efficient) based on revenue contribution and reliability.
 
-### Section 3 — Demand Forecasting (Python)
+### Section 3 - Demand Forecasting (Python)
 Built a **Linear Regression model with trend and seasonality features** for each of the 15 products. Validated on a 2024 holdout set using MAPE before forecasting 2025. Products with insufficient data (7 low-selling products) were handled with a simple monthly average approach — documented honestly in the notebook. Average MAPE across high-revenue products: ~19%.
 
-### Section 4 — Inventory Planning & Stockout Risk
+### Section 4 - Inventory Planning & Stockout Risk
 Combined the Python forecast output with the 2025 inventory table in PostgreSQL. Calculated a **coverage ratio** (closing stock ÷ forecasted demand) for each product-month combination. Created a four-tier stock status classification: 🔴 Critical, 🟠 Reorder Now, 🟡 Demand Gap, 🟢 Healthy.
 
-### Section 5 — Recommendations
+### Section 5 - Recommendations
 Data-backed recommendations derived from findings across all four sections — documented in the Power BI dashboard and summarised below.
 
 ---
